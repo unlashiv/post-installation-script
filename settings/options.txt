@@ -1,0 +1,4 @@
+uname exo1
+tzone Europe/Berlin
+pubkey settings/local.pub
+docker yes
